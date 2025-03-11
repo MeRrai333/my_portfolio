@@ -33,7 +33,7 @@ export default function NavBar(){
                     <li
                         key={i}
                         onClick={() => {
-                            document.getElementById(n.scrollId)?.scrollIntoView({ behavior: "smooth", block: "end", inline: "nearest" });
+                            document.getElementById(n.scrollId)?.scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
                         }}
                     >
                         {n.text}
@@ -77,7 +77,7 @@ export default function NavBar(){
                     <li
                         key={i}
                         onClick={() => {
-                            document.getElementById(n.scrollId)?.scrollIntoView({ behavior: "smooth", block: "end", inline: "nearest" });
+                            document.getElementById(n.scrollId)?.scrollIntoView({ behavior: "smooth", block: "start", inline: "nearest" });
                         }}
                     >
                         {n.text}
