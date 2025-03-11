@@ -1,0 +1,62 @@
+{
+    "Home": {
+        "iam": {
+            "header": "I'm Methit Sompitak",
+            "position": "Computer engineer"
+        }
+    },
+    "aboutMe": [
+        {
+            "header": "",
+            "content": "Hi! everyone who lost in here, I'm Methit Sompitak, a  computer engineer who passion in programing and infrastructure, I had experience in software development even if it isn't working experience and stronge on solving problems, have responsible, time management and eager to learning although I didn't good at chatting but I have a open mind and welcome to talk with everyone"
+        },
+        [
+            {
+                "header": "Hobby",
+                "content": [
+                    "Listen music", "Play games", "Reading manga", "Anime", "Play guitar"
+                ]
+            },
+            {
+                "header": "Advantages",
+                "content": [
+                    "Solving problems", "Eager to learning", "Time management", "Responsible", "Open mind", "Critical thinking"
+                ]
+            },
+            {
+                "header": "Disadvantages",
+                "content": [
+                    "starting communication", "Overthinking", "Lack of Confidence", "Discomfort with Public Speaking"
+                ]
+            }
+        ]
+    ],
+    "projects": {
+        "detail": [
+            [
+               "Borrow tool sets system, We collection data what each model of product need which consist many component such as color, model name, structure of product or location each component in warehouse for helping employee and improve productivity, furthermore, we collect borrow data who borrow?, who borrower?, who accepts returns?, what's time do they borrow and return, status of each borrowing and reporting to PDF file and CSV file",
+               "Mini project for learning NextAuth and Docker",
+               "Mini project for learning Prisma and Docker",
+               "Mini project for learning Express.js and MongoDB, CRUD project for collecting data in MongoDB",
+               "System for tracking working process, What is process or location of each products"
+            ],
+            [
+                "Mini project for learning C# Dotnet framework and Entity Framework"
+            ],
+            [
+                "Mini project for OOSE Lab subject"
+            ],
+            [
+                "Mini project for Computer Software Laboratory subject"
+            ],
+            [
+                "Mini project for learning PHP session in Server programming subject",
+               "System for tracking working process, What is process or location of each products"
+            ],
+            [
+                "Mini IoT project for measure AC electric such as voltage, current or power and display in graph dashboard in InfluxDB"
+            ]
+        ],
+        "restrict": "Restrict for company"
+    }
+}
