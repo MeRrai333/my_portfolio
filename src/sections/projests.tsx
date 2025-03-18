@@ -21,6 +21,9 @@ const projectLanguages = [
     },
     {
         label: "IoT"
+    },
+    {
+        label: "Dart"
     }
 ]
 

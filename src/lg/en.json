@@ -55,6 +55,10 @@
             ],
             [
                 "Mini IoT project for measure AC electric such as voltage, current or power and display in graph dashboard in InfluxDB"
+            ],
+            [
+                "Mini project Display information about myself (only thai language)",
+                "Mini project calculator"
             ]
         ],
         "restrict": "Restrict for company"

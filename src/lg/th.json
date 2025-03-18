@@ -55,6 +55,10 @@
             ],
             [
                 "Mini IoT project สำหรับวัดไฟฟ้า AC เช่น แรงดัน, กระแส or กำลัง และแสดงในรูปแบบกราฟ dashboard ใน InfluxDB"
+            ],
+            [
+                "Mini project แสดงข้อมูลเกี่ยวกับตัวเอง",
+                "Mini project เครื่องคิดเลข"
             ]
         ],
         "restrict": "ความลับขององค์กร"
