@@ -35,8 +35,11 @@
         "detail": [
             [
                "Borrow tool sets system, We collection data what each model of product need which consist many component such as color, model name, structure of product or location each component in warehouse for helping employee and improve productivity, furthermore, we collect borrow data who borrow?, who borrower?, who accepts returns?, what's time do they borrow and return, status of each borrowing and reporting to PDF file and CSV file",
+               "Mini project, for simulation P2P crypto trading",
+               "Mini project for Search films, item cart and buy flim",
                "Mini project for learning NextAuth and Docker",
                "Mini project for learning Prisma and Docker",
+               "Mini project Todo list with localStorage",
                "Mini project for learning Express.js and MongoDB, CRUD project for collecting data in MongoDB",
                "System for tracking working process, What is process or location of each products"
             ],

@@ -162,6 +162,20 @@
                 ]
             },
             {
+                "name": "Express Simulation P2P crypto trade",
+                "link": "https://github.com/MeRrai333/express_be_p2p_crypto_simulation_api",
+                "tools": [
+                    "Javascript", "Express.js", "PrismaORM"
+                ]
+            },
+            {
+                "name": "React movie website",
+                "link": "https://github.com/MeRrai333/react_movie_website",
+                "tools": [
+                    "Javascript", "React.js"
+                ]
+            },
+            {
                 "name": "nextauth prisma login",
                 "link": "https://github.com/MeRrai333/nextauth_prisma_login",
                 "tools": [
@@ -178,6 +192,13 @@
                 ]
             },
             {
+                "name": "React Todo list",
+                "link": "https://github.com/MeRrai333/react_todolist",
+                "tools": [
+                    "Javascript", "React.js"
+                ]
+            },
+            {
                 "name": "usermanagement node express mongodb",
                 "link": "https://github.com/MeRrai333/usermanagement-_node_express_mongodb",
                 "tools": [
@@ -188,7 +209,7 @@
                 "name": "[Frontend] Working process tracking",
                 "link": "-",
                 "tools": [
-                    "Javascript", "React", "pdf-lib", 
+                    "Javascript", "React.js", "pdf-lib", 
                     "Apache","GCP"
                 ]
             }
